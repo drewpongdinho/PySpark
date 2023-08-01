@@ -17,7 +17,7 @@ git clone https://github.com/drewpongdinho/PySpark.git
 
 Navigate to the project directory:
 <pre>
-cd PySpark -- update this
+cd PySpark 
 </pre>
 
 Build the Docker image by running the following command:
